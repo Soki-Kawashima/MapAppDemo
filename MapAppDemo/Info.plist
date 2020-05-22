@@ -60,5 +60,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>現在位置の表示に利用されます。</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>現在位置の表示に利用されます。</string>
 </dict>
 </plist>
